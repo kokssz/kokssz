@@ -1,7 +1,7 @@
 
 - 👋 Hi, I’m @kokssz
-- 👀 I’m interested in backend/frontend webDev
-- 🌱 I’m currently learning php, js, Three js
+- 👀 I’m interested in backend/frontend webDev, C# sowtfare development
+- 🌱 I’m currently learning C#
 
 
 
